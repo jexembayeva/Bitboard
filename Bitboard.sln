@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BitboardTest", "Bitboard\BitboardTest.csproj", "{84D3249B-D83D-4D5D-A073-8D8268770F31}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BitboardBase", "BitboardBase\BitboardBase.csproj", "{DD774FAB-86CF-43B1-8349-8E52B4A72CEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84D3249B-D83D-4D5D-A073-8D8268770F31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84D3249B-D83D-4D5D-A073-8D8268770F31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84D3249B-D83D-4D5D-A073-8D8268770F31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84D3249B-D83D-4D5D-A073-8D8268770F31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD774FAB-86CF-43B1-8349-8E52B4A72CEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD774FAB-86CF-43B1-8349-8E52B4A72CEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD774FAB-86CF-43B1-8349-8E52B4A72CEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD774FAB-86CF-43B1-8349-8E52B4A72CEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {52F4C853-80E8-4365-956A-7028C4E79539}
+	EndGlobalSection
+EndGlobal
